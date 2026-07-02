@@ -3,6 +3,7 @@
 # 🔐 Secure AUTH Gateway
 
 ### A production-ready authentication system built with the MERN stack
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4154?style=for-the-badge&logo=googlechrome&logoColor=white)]()
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
